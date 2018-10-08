@@ -3,19 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+//using NUnit.Framework;
 
 namespace POCV2
 {
-    [TestFixture]
+   // [TestFixture]
     public class LoginTestCls
     {
-        [TestCase]
+       // [TestCase]
         public void Autenticacion_de_usuario_correcta()
         {
-            var login = new LoginCls();
+        //    var login = new LoginCls();
 
-            Assert.AreEqual("Autenticacion de usuario correcta.", login.autenticacionDeUsuarios("uswe", "Pass1258/*"));
+          //  Assert.AreEqual("Autenticacion de usuario correcta.", login.autenticacionDeUsuarios("uswe", "Pass1258/*"));
 
         }
 
