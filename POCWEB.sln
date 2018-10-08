@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCWEB", "POCWEB\POCWEB.csproj", "{DB155EDC-ACA4-4890-9BDB-37952B574E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{0DC5CF64-7385-4D9C-A837-F52F749CB6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB155EDC-ACA4-4890-9BDB-37952B574E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB155EDC-ACA4-4890-9BDB-37952B574E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB155EDC-ACA4-4890-9BDB-37952B574E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB155EDC-ACA4-4890-9BDB-37952B574E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC5CF64-7385-4D9C-A837-F52F749CB6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC5CF64-7385-4D9C-A837-F52F749CB6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC5CF64-7385-4D9C-A837-F52F749CB6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC5CF64-7385-4D9C-A837-F52F749CB6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD6D7B8-14FC-4C2B-BAAA-E6E5D8E48599}
+	EndGlobalSection
+EndGlobal

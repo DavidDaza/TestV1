@@ -1,0 +1,9 @@
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\bin\Release\nunit.framework.dll
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\bin\Release\nunit.framework.pdb
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\bin\Release\nunit.framework.xml
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CopyComplete
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\SQA\source\repos\POCWEB\ClassLibrary1\obj\Release\ClassLibrary1.pdb
